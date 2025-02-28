@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:4000/api";
+const BASE_URL = "https://lnd-server-api.onrender.com/api";
 
 export const fetchFlightsData = async (origen, destino, salida, regreso, pasajeros) => {
   const response = await axios.get(`${BASE_URL}/flights`, {
