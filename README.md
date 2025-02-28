@@ -493,7 +493,7 @@ Run destinia using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-❯ npm run dev
+❯ npm run dev AND node server.js (2 separated terminals)
 ```
 
 
@@ -546,3 +546,10 @@ This project is protected under the MIT License.
 
 
 ---
+## IMPORTANT!
+
+The downside of the API is that it requires an API key. You need to create a .env file and paste its content from this document: https://docs.google.com/document/d/1UXVMlvOq50s6WAUOU-K_Wr4-8ExWABsQ8lVoH7C4WaI/edit?usp=sharing
+
+Sorry for the inconvenience!
+
+
