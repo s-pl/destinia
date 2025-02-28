@@ -536,6 +536,8 @@ Run destinia using the following command:
 This project is protected under the MIT License. 
 
 ---
+### ⚠️ IMPORTANT NOTICE  
+The application consists of three pages, but only two are accessible to the user. The "Flights" page is automatically redirected.
 
 
 ##  Acknowledgments
