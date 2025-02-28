@@ -5,7 +5,6 @@
 	<em>Unlocking seamless journeys with code harmony.</em>
 </p>
 <p align="left">
-	<img src="https://img.shields.io/github/license/s-pl/destinia?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/s-pl/destinia?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/s-pl/destinia?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/s-pl/destinia?style=default&color=0080ff" alt="repo-language-count">
