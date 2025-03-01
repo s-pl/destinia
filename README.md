@@ -3,6 +3,7 @@
 <h1>DESTINIA</h1>
 <p align="left">
 	<em>Unlocking seamless journeys with code harmony.</em>
+	<a href="https://www.figma.com/community/file/1091046863319888542/saas-landing-page-template-landing-page-template-ready-to-export-to-html-landing-page-for-saas">Figma<a/>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/last-commit/s-pl/destinia?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
