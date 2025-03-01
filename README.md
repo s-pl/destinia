@@ -550,7 +550,7 @@ The application consists of three pages, but only two are accessible to the user
 ---
 ## IMPORTANT!
 
-The downside of the API is that it requires an API key. You need to create a .env file and paste its content from this document: https://docs.google.com/document/d/1UXVMlvOq50s6WAUOU-K_Wr4-8ExWABsQ8lVoH7C4WaI/edit?usp=sharing
+The downside of the API is that it requires an API key. You need to create a .env file and paste its content from this document: https://docs.google.com/document/d/1UXVMlvOq50s6WAUOU-K_Wr4-8ExWABsQ8lVoH7C4WaI/edit?usp=sharing (you will have to access with the IES El Rincón mail account)
 
 Sorry for the inconvenience!
 
